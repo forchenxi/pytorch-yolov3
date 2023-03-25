@@ -1,0 +1,6 @@
+classes = 1
+train = data/VOCdevkit/2007_train.txt
+valid = data/VOCdevkit/2007_val.txt
+names = data/room.names
+backup = backup/
+eval = coco

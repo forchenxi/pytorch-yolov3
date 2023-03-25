@@ -1,0 +1,4 @@
+classes = 2293
+train = data/VOCdevkit/2007_train.txt
+valid = data/VOCdevkit/2007_val.txt
+names = data/word.names
